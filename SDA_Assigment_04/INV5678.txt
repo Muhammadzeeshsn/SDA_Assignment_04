@@ -1,0 +1,4 @@
+Invoice 5678
+Item: Widget A
+Quantity: 10
+Total: $1000
